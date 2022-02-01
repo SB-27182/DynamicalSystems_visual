@@ -47,5 +47,5 @@
 ## Predator-Prey Models:
   
 | Visual | Description | System |
-| --- | --- |
+| --- | --- | --- |
 |<img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/pred_prey/imgs/herbivore_saddleNode.jpg" width=250 height=100 /> | `Herbivore competition (saddle node)`<br>Three equilibrium state. One unstable. |<img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/pred_prey/Math/compete_herbivores.jpg"/> |
