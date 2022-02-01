@@ -13,6 +13,6 @@
 
 | Visual | Description |
 | --- | --- |
-|<img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/superCriticalHopf/imgs/sup_insideUnstable2.jpg" width=250 height=185 />| `Interior Trajectories:`<br> When the parameter u, is greater than it's respective critical value, *ie*: the limit cycle has formed, trajectories starting inside are drawn to the stable center like the trajectories starting outside.|
+|<img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/superCriticalHopf/imgs/sup_insideUnstable2.jpg" width=250 height=250 />| `Interior Trajectories:`<br> When the parameter u, is greater than it's respective critical value, *ie*: the limit cycle has formed, trajectories starting inside are drawn to the stable center like the trajectories starting outside.|
 |<img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/superCriticalHopf/imgs/sup_extremelyFastConstantOscilation.jpg" width=250 height=185 />| `w is large, b is zero:`<br> In an oscilation of large and constant rotational velocity, each trajectory oscillates many times around the limit-cycle before drawing asymptotically close to it.|
 |<img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/superCriticalHopf/imgs/sup_extremelyFastConstantOscilation.jpg" width=250 height=185 />| `w is small, b is zero:`<br> On the other hand, an oscilation of small and constant rotational velocity,sees that each trajectory has it's behavior dominated by the radial dynamics rather than the oscillatory dynamics.
