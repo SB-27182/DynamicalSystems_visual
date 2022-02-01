@@ -48,4 +48,5 @@
   
 | Visual | Description | System |
 | --- | --- | --- |
-|<img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/pred_prey/imgs/herbivore_saddleNode.jpg" width=150 height=100 /> | `Herbivore competition (saddle node)`<br>Three equilibrium state. One unstable. |<kbd><img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/pred_prey/Math/compete_herbivores.jpg"/> </kbd>|
+|<img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/pred_prey/imgs/herbivore_saddleNode.jpg" width=150 height=100 /> | `Herbivore competition (saddle node)`<br>Three equilibrium state. One unstable. Two herbivores competeing for resources.|<kbd><img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/pred_prey/Math/compete_herbivores.jpg"/> </kbd>|
+|<img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/pred_prey/imgs/pred_simpleOscilator.jpg" width=150 height=100 /> | `Carnivor-Herbivore (Simple oscilator (Actually a center)`<br>Interactions between predators and prey. Centers like this are generally observed in conservative systems. |<kbd><img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/pred_prey/Math/compete_herbivores.jpg"/> </kbd>|
