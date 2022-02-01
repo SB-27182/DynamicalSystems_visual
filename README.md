@@ -7,7 +7,7 @@
  <p align="center">
   &nbsp; &nbsp; &nbsp;
     <img src="https://github.com/SB-27182/gothicSVG/blob/master/superCritBifurcation.gif" width=450 height=333 padding-top=50 /><br>
-  <i>In the standard super-critial Hopf, <br> the decay rate of a perturbation slows down so much so, that a limit cycle forms.</i>
+  <a href="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/superCriticalHopf/superCriticalHopf.m"><i>In the standard super-critial Hopf, <br> the decay rate of a perturbation slows down so much so, that a limit cycle forms.</i></a>
 </p>
 <br>
 
