@@ -17,3 +17,17 @@
 |<img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/superCriticalHopf/imgs/sup_extremelyFastConstantOscilation.jpg" height=140 />| `w is large, b is zero:`<br> In an oscilation of large and constant rotational velocity, each trajectory oscillates many times around the limit-cycle before drawing asymptotically close to it.|
 |<img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/superCriticalHopf/imgs/sup_MuchSlowerConstantOscilation.jpg" height=140 />| `w is small, b is zero:`<br> On the other hand, an oscilation of small and constant rotational velocity,sees that each trajectory has it's behavior dominated by the radial dynamics rather than the oscillatory dynamics.
 |<img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/superCriticalHopf/imgs/sup_OscilationVelocityChangesWith_r.jpg" height=140 />| `Angular velocity is function of radius:`<br> As the trajectories move away from the limit cycle, the oscillatory dynamics change accordingly.
+
+
+## Sub-Critical Hopf:
+<p align="center">
+  <kbd>
+  <img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/subCriticalHopf/Math/subHopfEquation.jpg" width=800 height=55/>
+  </kbd>
+  </p>
+ <p align="center">
+  &nbsp; &nbsp; &nbsp;
+    <img src="https://github.com/SB-27182/gothicSVG/blob/master/superCritBifurcation.gif" width=450 height=333 padding-top=50 /><br>
+  <a href="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/superCriticalHopf/superCriticalHopf.m"><i>In the standard super-critial Hopf, <br> the decay rate of a perturbation slows down so much so, that a limit cycle forms.</i></a>
+</p>
+<br>
