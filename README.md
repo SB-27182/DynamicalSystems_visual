@@ -29,7 +29,7 @@
   </p>
  <p align="center">
   &nbsp; &nbsp; &nbsp;
-    <img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/subCriticalHopf/imgs/subCrit_gif.gif" width=450 height=333 padding-top=50 /><br>
+    <img src="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/subCriticalHopf/imgs/subCrit_gif.gif" width=450 height=333 /><br>
   <a href="https://github.com/SB-27182/DynamicalSystems_visual/blob/master/subCriticalHopf/subCriticalHopf.m"><i>Similar to the super-critical, with so many terms it's clear that such bifurcations can be greatly modified. <br> If you're familiar with loba-NN, I contend that the theoretical coefficients for the above terms are effectively what the invertible neural network's parameters are estimating (in the example given on the respective github page)</i></a>
 </p>
 <br>
